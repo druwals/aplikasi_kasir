@@ -1,0 +1,10 @@
+F:\PROYEK VISUAL STUDIO\AppNyong\bin\Debug\AppNyong.exe.config
+F:\PROYEK VISUAL STUDIO\AppNyong\bin\Debug\AppNyong.exe
+F:\PROYEK VISUAL STUDIO\AppNyong\bin\Debug\AppNyong.pdb
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.csproj.AssemblyReference.cache
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.FormLogin.resources
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.Properties.Resources.resources
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.csproj.GenerateResource.cache
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.csproj.CoreCompileInputs.cache
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.exe
+F:\PROYEK VISUAL STUDIO\AppNyong\obj\Debug\AppNyong.pdb
